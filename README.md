@@ -24,4 +24,19 @@ El patrón Singleton se utiliza en este proyecto para asegurar que sólo exista un
 
 3. Asegurate de instalar las dependencias, puedes usar `dotnet restore`.
 
-4. Ejecuta el proyecto. Para un proyecto de .NET, puedes usar `dotnet run`.
+4. Antes de ejecutar el proyecto, necesitas insertar algunos datos en la base de datos.
+
+    ```sql
+    USE [onion_architecture]
+    GO
+
+    INSERT INTO [dbo].[Clientes]
+               ([nombre]
+               ,[direccion]
+               ,[telefono])
+         VALUES
+               ('Juan Perez', 'Calle Principal 123', '555-1234')
+    GO
+    ```
+
+5. Ahora puedes ejecutar el proyecto. usando `dotnet run`.
