@@ -6,7 +6,7 @@ Este proyecto implementa la arquitectura Onion y el patrón Singleton en un siste
 
 Aquí está el modelo Entidad-Relación que se utiliza en este proyecto:
 
-![Modelo Entidad-Relación](mer.jpg)
+![Modelo Entidad-Relación](https://github.com/edzaga-app/onion-architecture/blob/main/mer.JPG)
 
 ## Arquitectura Onion
 
