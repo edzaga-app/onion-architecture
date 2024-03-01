@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qdaWBokCBSOS145PFUetes2JI11vCBS2ZlFE8wlHizq0xr5hualffcR3J3la20g4YHLxaPVWV5lS8oXKLuS5mg==",
+  "success": true,
+  "projectFilePath": "B:\\Edzaga\\Documents\\Repositorios\\GitHub\\onion-architecture\\OnionArchitecture\\Infrastructure\\Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MI\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\MI\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
